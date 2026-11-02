@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Emad
 
-<!--
-**mashrursaademad/mashrursaademad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electrical and Electronic Engineering Graduate
 
-Here are some ideas to get you started:
+I'm an EEE graduate interested in control systems, signal processing, machine learning and power electronics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy developing engineering solutions through programming, simulation, circuit design and research.
+
+### Technical Interests
+- Control Systems and Automation
+- Signal Processing and Digital Systems
+- Power Electronics and Energy Conversion
+- MATLAB and Numerical Simulation
+- Python and Machine Learning
+
+### Programming & Tools
+Python | MATLAB | Simulink | Proteus | PSIM | OrCAD PSpice
+
+### Featured Projects
